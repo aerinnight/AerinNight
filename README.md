@@ -1,5 +1,4 @@
 - 👋 Greetings, Mortal; I am [@AerinNight](https://github.com/AerinNight)
-- 🔮 I am a 10th-level Android sorceress, have worked on nine Android apps, and launched two of them.
+- 🔮 I am a 13th-level Android sorceress, have worked on nine Android apps, and launched two of them.
 - 📧 For business, hexing requests, and/or blood contracts, please contact [aerinnight@gmail.com](mailto:aerinnight@gmail.com).
 - 🛠 My current learning pursuits are in microcontroller programming, and relatedly propmaking as a hobby.
-- 📺 And if you like Twitch streams, you can find me at [Twitch.tv/AerinNight](https://twitch.tv/aerinnight) on Mon and Fri evenings, PST.
