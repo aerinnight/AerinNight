@@ -1,4 +1,4 @@
-- 👋 Greetings, Mortal; I am [@AerinNight](https://github.com/AerinNight)
+- 👋 Greetings, Mortal; I am [@AerinNight](https://github.com/AerinNight), Daughter of Daemon, Lord of the Files
 - 🔮 I am a 13th-level Android sorceress, have worked on nine Android apps, and launched two of them.
 - 📧 For business, hexing requests, and/or blood contracts, please contact [aerinnight@gmail.com](mailto:aerinnight@gmail.com).
 - 🛠 My current learning pursuits are in microcontroller programming, and relatedly propmaking as a hobby.
